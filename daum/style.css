@@ -1,0 +1,18 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.title{
+    margin:0 auto; background-color: blue
+    text-align;center 
+}
+/*
+블록일때  margin 설정으로 
+*/
+.card{
+    width: 1100px;
+    background-color: #eeee;
+
+}
